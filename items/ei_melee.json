@@ -435,5 +435,5 @@
     "qualities": [ [ "SAW_W", 1 ], [ "DIG", 1 ], [ "BUTCHER", -30 ], ["PRY", 1] ],
     "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "DIG_TOOL" ],
     "use_action": [ "MAKEMOUND", "CROWBAR", "PICKAXE" ]
-  },
+  }
 ]
